@@ -16,7 +16,5 @@ pip install mechanize
 pip install bs4
 pip install futures
 git clone https://github.com/Bajingan-Z/Bangsat
-rm -rf Bangsat
 cd Bangsat
-git pull
 python Bangsat.py
