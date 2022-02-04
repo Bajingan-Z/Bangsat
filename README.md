@@ -1,4 +1,5 @@
 # Bangsat
+
 Coded by Dapunta
 =================================
 Di Perbaharui Tgl.4 Februari 2022
