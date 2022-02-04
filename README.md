@@ -1,8 +1,7 @@
 # Bangsat
 Coded by Dapunta
-
-
-Di Perbaharui Oleh Angga-Z
+=================================
+Di Perbaharui Tgl.4 Februari 2022
 
 # INSTALL COMMAND
 
