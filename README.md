@@ -1,6 +1,9 @@
 # Bangsat
 Coded by Dapunta
 
+
+Di Perbaharui Oleh Angga-Z
+
 # INSTALL COMMAND
 
 ``````
